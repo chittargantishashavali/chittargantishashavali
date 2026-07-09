@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi 👋, I'm Kashif Shaik
 
-<!--
-**chittargantishashavali/chittargantishashavali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Aspiring Data Engineer
 
-Here are some ideas to get you started:
+I am an aspiring Data Engineer currently learning by building real-world projects using Python, SQL, PostgreSQL, Git, and GitHub.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills
+- Python
+- SQL
+- PostgreSQL
+- ETL
+- Pandas
+- SQLAlchemy
+- Git
+- GitHub
+
+## 📂 Projects
+
+### User Data ETL Pipeline
+- Extracted user data from a JSON file.
+- Transformed the data by cleaning and selecting required fields.
+- Loaded the cleaned data into PostgreSQL using Pandas and SQLAlchemy.
+- Technologies used: Python, PostgreSQL, Pandas, SQLAlchemy.
+
+## 🎯 Current Goal
+Building hands-on Data Engineering projects and preparing for Data Engineer interviews.
+
+## 📫 Connect
+GitHub: https://github.com/chittargantishashavali
+
+Thanks for visiting my profile! 😊
