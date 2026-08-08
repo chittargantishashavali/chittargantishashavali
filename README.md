@@ -1,67 +1,67 @@
-# Hi 👋, I'm Chittarganti Shashavali
+# Chittarganti Shashavali
 
-### Technical Support Professional | Data Analyst in Progress | Python · SQL · ETL · Power BI
+### Technical Support Professional | Data & Analytics | Python · SQL · ETL · Power BI · Salesforce
 
-I work in technical support and CRM data operations, and I'm building hands-on data engineering and analytics skills through real-world projects. I care about clean data, reliable systems, and turning messy processes into documented, repeatable ones.
-
----
-
-### 🚀 What I Do
-
-- 🔍 **Production support & incident management** — troubleshooting, root cause analysis, SLA-driven case resolution
-- 🧹 **Data quality & validation** — identifying and fixing discrepancies, duplicate/missing records, data integrity checks
-- 🛠️ **ETL pipeline development** — building automated data workflows with Python, SQL, and PostgreSQL
-- 📊 **Reporting & dashboards** — Power BI and Excel dashboards to track KPIs and performance metrics
-- ☁️ **Salesforce platform** — hands-on data management experience + Trailhead-certified learning (16 badges)
+📍 Hyderabad, Telangana, India &nbsp;|&nbsp; ✉️ [shaikshoaibhussain@gmail.com](mailto:shaikshoaibhussain@gmail.com) &nbsp;|&nbsp; 🔗 [Salesforce Trailblazer](https://www.salesforce.com/trailblazer/ohhaaxara2wza2e8ml)
 
 ---
 
-### 🧰 Skills
+## About Me
 
-**Languages & Data**
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+I work in technical support and CRM data operations, resolving high-volume, SLA-driven cases while maintaining data accuracy and process documentation. Alongside my day-to-day work, I build hands-on data engineering and analytics projects to grow toward a career in data operations and analytics.
 
-**Tools & Platforms**
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Salesforce](https://img.shields.io/badge/-Salesforce-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
-![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-
-**Practices**
-`ETL` · `Data Validation` · `Root Cause Analysis` · `Incident Management` · `Agile/SDLC` · `Technical Documentation`
+- 🔭 Currently working as a **Technical Support Associate**, managing 80–120 cases daily with 95%+ SLA adherence
+- 🌱 Currently deepening my skills in **SQL, Python, and Salesforce data management**
+- 🎯 Focused on transitioning into **data analytics / data operations** roles
+- 💬 Ask me about incident management, data validation, or ETL pipelines
 
 ---
 
-### 📂 Featured Project
+## Core Skills
 
-#### [End-to-End ETL Data Pipeline](https://github.com/chittargantishashavali/data-engineering-roadmap)
+| Category | Skills |
+|---|---|
+| **Languages & Data** | Python, SQL, PostgreSQL, Pandas, SQLAlchemy |
+| **Platforms & Tools** | Git, GitHub, Salesforce, Power BI, Linux |
+| **Practices** | ETL Development, Data Validation, Root Cause Analysis, Incident Management, Agile/SDLC, Technical Documentation |
+
+<p>
+<img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/-Salesforce-00A1E0?style=flat-square&logo=salesforce&logoColor=white" />
+<img src="https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
+<img src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+</p>
+
+---
+
+## Featured Project
+
+### 🔧 [End-to-End ETL Data Pipeline](https://github.com/chittargantishashavali/data-engineering-roadmap)
+
 An automated pipeline that extracts, validates, transforms, and loads structured data into PostgreSQL.
+
 - Built with **Python (Pandas, SQLAlchemy)** and **SQL** for extraction, cleaning, and validation
 - Implemented logging and error handling to improve reliability and troubleshooting
-- Used **Git** for version control with structured commit practices
-- Strengthened root-cause investigation and data-accuracy skills applicable to production support
+- Version-controlled with **Git**, following structured commit practices
 
 ---
 
-### 🎯 Currently
+## GitHub Activity
 
-- Deepening my SQL and Python skills for data analytics and data engineering roles
-- Growing my Salesforce platform knowledge through Trailhead (Data Management, Data Modeling, Reports & Dashboards)
-- Applying for roles at the intersection of technical support, data operations, and analytics
-
----
-
-### 📫 Connect with Me
-
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:shaikshoaibhussain@gmail.com)
-[![Salesforce Trailblazer](https://img.shields.io/badge/-Trailblazer-00A1E0?style=flat-square&logo=salesforce&logoColor=white)](https://www.salesforce.com/trailblazer/ohhaaxara2wza2e8ml)
-
-📍 Hyderabad, Telangana, India
+<p>
+<img src="https://github-readme-stats.vercel.app/api?username=chittargantishashavali&show_icons=true&theme=default&hide_title=true" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chittargantishashavali&layout=compact&hide_title=true" height="165" />
+</p>
 
 ---
 
-⭐️ Thanks for stopping by — feel free to explore my repositories below!
+## Background
+
+Before moving into technical/data support, I completed a B.Tech in Computer Science & Engineering. I'm Salesforce Trailhead certified across 16 badges, including Data Management, Data Modeling, and Reports & Dashboards.
+
+---
+
+⭐️ Thanks for visiting — feel free to explore my repositories below, or reach out via email.
